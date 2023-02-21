@@ -1,0 +1,22 @@
+.input{
+
+    background-image: linear-gradient(-225deg, #adadad 0%, #777877 48%, #29292a 100%);
+    margin-top: 100px;
+}
+.input button{
+
+    
+    background-color: aliceblue;
+    color: black;
+    margin-left: 8px;
+    padding: 5px;
+   
+}
+.table{
+    
+    margin-bottom: 20px;
+}
+h4{
+    margin-left: 10px;
+    color: rgb(251, 5, 5);
+}
